@@ -15,10 +15,6 @@ k=7
 f=8/7
 print(str.formart(f))
 
-
-
-
-
 // Given the string `"Python"`, retrieve and print the first and last characters using indexing.
 b="python"
 b[0]
@@ -73,7 +69,7 @@ print(g.index(o))
 // Check if the substring "world" is present in the string `"Hello, World!"` using the `in` keyword.
 
 word="Hello World"
-if "World" in word:
+if ("World") in word:
 print("yes")
 
 
